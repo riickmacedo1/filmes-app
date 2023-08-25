@@ -1,0 +1,20 @@
+.erro {
+  width: 100%;
+  height: calc(100vh - 60px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.erro h1 {
+  font-size: 100px;
+  margin-bottom: 10px;
+}
+
+.erro p {
+  padding: 15px;
+  border-radius: 8px;
+  background-color: #116feb;
+  color: #fff;
+}
